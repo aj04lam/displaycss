@@ -1,0 +1,37 @@
+body{
+   border: 10px double #1e59d8 ;
+   margin: 20px 20px 20px 20px;
+   padding: 10px 20px 20px 20px;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+hr{
+    margin-left: -20px;
+    margin-right: -20px;
+    color: #1e59d8;
+    border: 2px solid #1e59d8;
+}
+
+.a img{
+    width: 1250px;
+    height: 563px;
+}
+span{
+    display: inline-block;
+    background-color: #1e59d8;
+}
+
+
+.b h3{
+    margin-bottom: -15px;
+}
+
+footer{
+    background-color: #000000;
+    padding: 20px;
+    border-top: 1px solid #ccc;
+    text-align: center;
+    font-size: 14px;
+    color: #ffffff;
+    margin-top: 50px;
+}
